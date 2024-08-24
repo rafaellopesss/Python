@@ -1,0 +1,35 @@
+Date: 31/7/2024
+Time: 16:23
+Phone Number: +558695567575
+Message: Hi!
+--------------------
+Date: 31/7/2024
+Time: 16:27
+Phone Number: +558598537885
+Message: Olá, está é uma mensagem automática enviada programada em python !
+--------------------
+Date: 31/7/2024
+Time: 16:27
+Phone Number: +558695567575
+Message: Olá, está é uma mensagem automática enviada programada em python !
+--------------------
+Date: 31/7/2024
+Time: 16:27
+Phone Number: +558699362080
+Message: Olá, está é uma mensagem automática enviada programada em python !
+--------------------
+Date: 31/7/2024
+Time: 16:42
+Phone Number: +558598537885
+Message: Oi
+--------------------
+Date: 31/7/2024
+Time: 16:43
+Phone Number: +558695567575
+Message: Oi
+--------------------
+Date: 31/7/2024
+Time: 16:43
+Phone Number: +558699362080
+Message: Oi
+--------------------
