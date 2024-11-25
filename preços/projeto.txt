@@ -1,0 +1,9 @@
+O que o projeto vai ter?
+
+Assim que o usuário mandar mensagem: 
+    - O bot vai responder com um olá, e vai perguntar:
+        - Oque você gostaria?
+            - Gostaria de um gás
+            - Ver preços 
+            - Fazer uma reclamação
+            
