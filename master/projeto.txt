@@ -1,0 +1,11 @@
+Projeto vai ter uma aba de registro com as informações
+    - Nome do cliente
+    - Número do cliente
+    - Forma de pagamento
+    - Endereço:
+        - Bairro
+        - Quadra
+        - Rua
+        - casa 
+        - Complemento
+    - Data inserida automaticamente, pois isso é vital para o programar
